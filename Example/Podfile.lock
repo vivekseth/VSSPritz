@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - Specta (0.2.1)
+  - VSSpritz (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta (~> 0.2.1)
+  - VSSpritz (from `../`)
+
+EXTERNAL SOURCES:
+  VSSpritz:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+  VSSpritz: 315920e0e43ab17c5cff7a31d05e1f3935adc9d7
+
+COCOAPODS: 0.33.1
